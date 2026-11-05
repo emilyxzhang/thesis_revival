@@ -7,7 +7,6 @@
 *.xls
 *.zip
 Raw_data/
-data/
 
 # R / RStudio clutter
 .Rhistory
@@ -18,3 +17,5 @@ data/
 
 # Mac
 .DS_Store
+data/*
+!data/README.md

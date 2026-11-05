@@ -17,5 +17,3 @@ Raw_data/
 
 # Mac
 .DS_Store
-data/*
-!data/README.md

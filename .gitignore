@@ -1,0 +1,20 @@
+# Data: PSID terms prohibit redistribution
+*.dta
+*.Rds
+*.rds
+*.csv
+*.xlsx
+*.xls
+*.zip
+Raw_data/
+data/
+
+# R / RStudio clutter
+.Rhistory
+.RData
+.Rproj.user/
+*_cache/
+*_files/
+
+# Mac
+.DS_Store
